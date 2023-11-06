@@ -1,2 +1,2 @@
-# generator
-A set of different generators for certain things such as random strings, random numbers and more.
+# Simple.TS
+Simply just functions that can maybe help with average coding.

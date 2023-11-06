@@ -1,5 +1,5 @@
 {
-  "name": "@epicster/gens",
+  "name": "simple.ts",
   "version": "0.0.1",
   "description": "A set of different generators for certain things such as random strings, random numbers and more.",
   "main": "index.js",
@@ -8,7 +8,11 @@
     "test": "npx ts-node test/index.ts",
     "export": "npx tsc && npm publish"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "simple",
+    "easy"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
