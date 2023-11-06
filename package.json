@@ -1,6 +1,6 @@
 {
   "name": "simple.ts",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A set of different generators for certain things such as random strings, random numbers and more.",
   "main": "index.js",
   "scripts": {
